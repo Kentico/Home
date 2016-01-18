@@ -47,7 +47,9 @@ If not stated otherwise, we use [feature branch workflow](https://www.atlassian.
 - All tests are green
 - Code design follows the .NET [Framework Design Guidelines](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
     - If you're not sure about some rules, follow the style of the existing code.
+    - Use "Format the whole document" button in Visual Studio to fix indentation ![format](https://cloud.githubusercontent.com/assets/9810625/12391368/a14d7726-bde7-11e5-9a0f-3310c833f5ca.png)
 - Documentation is updated
+  
 
 
 ### Learn how to write good commit messages
