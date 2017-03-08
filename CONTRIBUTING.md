@@ -9,7 +9,7 @@ This guide describes general guidelines that most of the repositories refer to. 
 
 Everybody loves new features! You can create a new issue or you can code it on your own and provide us with the pull request. Anyway, don't forget to mention what's the use case and what's the expected output.
 
-You can also discuss the feature before you start the implementation. Ask us on a repository [Gitter](https://gitter.im/Kentico) chat or create a GitHub issue.
+It's always a good idea to discuss the feature before you start the implementation. You can check with us whether the feature fits the vision of a given project and we may give you some useful hints before you start coding. Ask us on a repository [Gitter](https://gitter.im/Kentico) chat or create a GitHub issue.
 
 
 ## I found a bug
