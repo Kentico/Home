@@ -7,9 +7,9 @@ This guide describes general guidelines that most of the repositories refer to. 
 
 ## I have an idea for a new feature
 
-Everybody loves new features! You can create a new issue or you can code it on your own and provide us with the pull request. Anyway, don't forget to mention what's the use case and what's the expected output.
+Everybody loves new features! You can submit a new feature request or you can code it on your own and send us a pull request. In either case, don't forget to mention what's the use case and what's the expected output.
 
-It's always a good idea to discuss the feature before you start the implementation. You can check with us whether the feature fits the vision of a given project and we may give you some useful hints before you start coding. Ask us on a repository [Gitter](https://gitter.im/Kentico) chat or create a GitHub issue.
+It's always a good idea to discuss the feature before you start the implementation. You can check with us whether the feature fits the vision of a given project. We may also give you some useful hints before you start coding. To start chatting, either create a new GitHub issue or contact us via the [repository's default communication channel](https://github.com/Kentico/Home#questions--answers).
 
 
 ## I found a bug
@@ -41,11 +41,12 @@ If not stated otherwise, we use [feature branch workflow](https://www.atlassian.
 7. Once the code is ready, someone from maintainers will merge it into the ```master``` branch
 
 
-### Code requirements
+### Definition of Done
 
-- Code is buildable
-- All tests are green
-- Code design follows the .NET [Framework Design Guidelines](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
+- Code requirements:
+ - Code is buildable
+ - All tests are green
+ - Code design follows the .NET [Framework Design Guidelines](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
     - If you're not sure about some rules, follow the style of the existing code.
     - Use "Format the whole document" button in Visual Studio to fix indentation ![format](https://cloud.githubusercontent.com/assets/9810625/12391368/a14d7726-bde7-11e5-9a0f-3310c833f5ca.png)
 - Documentation is updated
