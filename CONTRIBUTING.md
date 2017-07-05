@@ -60,3 +60,15 @@ We hate sloppy commit messages. No more ```Performance tuning``` or ```Changed a
 - [Writing good commit messages](https://github.com/erlang/otp/wiki/Writing-good-commit-messages)
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [On commit messages](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
+
+## Code of Conduct
+
+The Kentico team is committed to fostering a welcoming community.
+
+**Our Code of Conduct can be found here**:
+
+https://github.com/Kentico/Home/blob/master/CODE_OF_CONDUCT.md
+
+For a history of updates, see the page history here:
+
+https://github.com/Kentico/Home/commits/master/CODE_OF_CONDUCT.md
