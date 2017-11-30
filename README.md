@@ -4,7 +4,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 ## Questions & Answers
 
-Use [Stack Overflow](https://stackoverflow.com/) to [ask](http://stackoverflow.com/questions/ask?tags=kentico) questions. Make sure you label them with the [Kentico](https://stackoverflow.com/questions/tagged/kentico) tag to make it easy for the community to find them. Besides that, every repository has its own default communication channel. Some use Gitter ([![Join the chat at https://gitter.im/Kentico](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kentico?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)), other use forums ([![Forums](https://img.shields.io/badge/chat-on%20forums-orange.svg)](https://forums.kenticocloud.com)). Look out for the badges in the README files.
+Use [Stack Overflow](https://stackoverflow.com/) to [ask](http://stackoverflow.com/questions/ask?tags=kentico) questions. Make sure you label them with the [Kentico](https://stackoverflow.com/questions/tagged/kentico) tag to make it easy for the community to find them. Besides that, every repository has its own default communication channel. Some use Slack ([![Join the chat at https://kentico-community.slack.com](https://img.shields.io/badge/join-slack-E6186D.svg)](https://kentico-community.slack.com)), other use forums ([![Forums](https://img.shields.io/badge/chat-on%20forums-orange.svg)](https://forums.kenticocloud.com)). Look out for the badges in the README files.
 
 Please don't use GitHub Issues for your questions. They're meant for tracking features and bugs.
 
