@@ -3,14 +3,16 @@
 Welcome to the world of Kentico open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. 
 
 ## Kentico Cloud
+![Kentico Cloud logo](https://github.com/Kentico/Home/blob/master/images/kentico_cloud_logotype_RGB_200px.png)
 
-[Kentico Cloud](https://kenticocloud.com/) is headless CMS built from the ground up to be API-first. Back-end only content management system (content hub) which provides content repository that makes content accessible via a RESTful API.
+[Kentico Cloud](https://kenticocloud.com/) is headless CMS built from the ground up to be API-first. Back-end only content hub that makes content accessible via a RESTful API.
 Developers can choose the technology they love (any programming language and combine it with our [SDKs](https://developer.kenticocloud.com/docs/delivery-sdks)) and content editors can work on the content from anywhere, anytime. Save your time and resources by managing content in one place. Deliver true omni-channel personalized customer experience.
 
 * List of [Kentico Cloud open-source projects](https://github.com/topics/kentico-cloud).
 
 
 ## Kentico EMS
+![Kentico EMS logo](https://github.com/Kentico/Home/blob/master/images/kentico_rgb_small_200px.png)
 
 [Kentico EMS](https://www.kentico.com/) is the only fully integrated ASP.NET CMS, E-commerce, and Online Marketing platform that allows you to create cutting-edge websites, and fully optimize your digital customers’ experiences across multiple channels. Kentico saves you time and resources so you can accomplish more.
 
