@@ -6,7 +6,8 @@ Welcome to the world of Kentico open source software. This is the home repositor
 ![Kentico Cloud logo](https://github.com/Kentico/Home/blob/master/images/kentico_cloud_logotype_RGB_200px.png)
 
 [Kentico Cloud](https://kenticocloud.com/) is headless CMS built from the ground up to be API-first. Back-end only content hub that makes content accessible via a RESTful API.
-Developers can choose the technology they love (any programming language and combine it with our [SDKs](https://developer.kenticocloud.com/docs/delivery-sdks)) and content editors can work on the content from anywhere, anytime. Save your time and resources by managing content in one place. Deliver true omni-channel personalized customer experience.
+Developers can choose the technology they love (any programming language and combine it with our [SDKs](https://developer.kenticocloud.com/docs/delivery-sdks)) and display it on any device.
+Content editors can work on the content from anywhere, anytime and collaborate effectively within a team. Save your time and resources by managing content in one place. Deliver personalized omni-channel customer experience.
 
 * List of [Kentico Cloud open-source projects](https://github.com/topics/kentico-cloud).
 
