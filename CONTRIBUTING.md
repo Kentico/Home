@@ -72,3 +72,5 @@ https://github.com/Kentico/Home/blob/master/CODE_OF_CONDUCT.md
 For a history of updates, see the page history here:
 
 https://github.com/Kentico/Home/commits/master/CODE_OF_CONDUCT.md
+
+![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/Home/master/CONTRIBUTING.md?pixel)
