@@ -4,7 +4,7 @@
 There are many different ways in which you can contribute. One of the easiest ways is simply to use our software and provide us with your feedback through the right channel. You can also help us improve the open-source projects by submitting pull requests with code and documentation changes.
 
 ## Where to get support
-Please note that **level of provided support is always determined by the [LICENSE](LICENSE.md)** of a given open-source project. Also, always make sure you use the **[latest version](../../releases)** of any given OS project. We can't provide any help for older versions. We don't want to make things complicated so we try to take the same approach in all our repositories. 
+Please note that the **level of provided support is always determined by the [LICENSE](LICENSE.md)** of a given open-source project. Also, always make sure you use the **[latest version](../../releases)** of any given OS project. We can't provide any help for older versions. We don't want to make things complicated so we try to take the same approach in all our repositories. 
 
 ### I found a bug in a Kentico's open-source project
 <img align="right" width="100" height="100" src="https://i.imgur.com/TYIQdpv.png">
