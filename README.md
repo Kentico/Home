@@ -9,6 +9,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 [Kentico Cloud](https://kenticocloud.com/) is a cloud content hub built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kentico Cloud is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
 * List of [Kentico Cloud open-source projects](https://github.com/topics/kentico-cloud).
+* [Guidelines for creating the Kentico Cloud Delivery SDK](https://github.com/Kentico/Home/wiki/Guidelines-for-SDK-developers)
 
 
 ### Kentico EMS
