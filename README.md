@@ -1,6 +1,6 @@
 # Kentico
 
-Welcome to the world of Kentico open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. 
+Welcome to the world of Kentico open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/Kentico/Home/wiki) of this repository, you can find the best practices and guidelines for OS projects and SDK developers. 
 
 ## Our products and related open-source projects
 ### Kentico Cloud
