@@ -34,7 +34,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico DevNet](https://devnet.kentico.com/) - The central resource for the Kentico EMS developer community
 
-- [Kentico Community Slack](https://kentico-community.slack.com/) - A Slack workspace open to Kentico Gold Partners, invite-only to everyone else. If you'd like to join, contact one of the Kentico developer advocates or MVPs [below on Twitter](####-kentico-on-Twitter)
+- [Kentico Community Slack](https://kentico-community.slack.com/) - A Slack workspace open to Kentico Gold Partners, invite-only to everyone else. If you'd like to join, contact one of the Kentico developer advocates or MVPs [below on Twitter](#kentico-mvps)
 
 - [Kentico MVPs](https://www.kentico.com/company/mvp) - List of all Kentico MVPs
 
