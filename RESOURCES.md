@@ -86,7 +86,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ryan Overton (Kentico Kontent)](https://www.twitch.tv/developersgarage)
 
-- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](twitch.tv/ondrabus)
+- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://www.twitch.tv/ondrabus)
 
 ### Kentico MVPs
 
