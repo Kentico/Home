@@ -112,7 +112,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Michael Kinkaid](https://twitter.com/MeAndMyRobot) (Kentico EMS/Kentico Kontent) - [Blog](https://www.ecentricarts.com/blog/)
 
-- Mike Wills (Kentico EMS) - [Blog](https://bluemodus.com/articles/colleague/mike-wills)
+- [Mike Wills](https://twitter.com/@tiriansdoor) (Kentico EMS) - [Blog](https://bluemodus.com/articles/colleague/mike-wills)
 
 - [Trevor Fayas](https://twitter.com/DevTrev_Kentico) (Kentico EMS) - [Blog](<http://www.devtrev.com/Trev-Tips-(Blog)>)
 
