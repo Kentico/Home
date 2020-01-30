@@ -144,6 +144,8 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Distinction UK](https://medium.com/distinctionuk)
 
+- [NetConstruct](https://www.netconstruct.com/insights)
+
 ### Other
 
 - [Carly Lyddiard](https://carly.io/category/kentico/)
