@@ -58,23 +58,23 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Design](https://twitter.com/KenticoDesign) - Kentico's internal designers
 
-- [Petr Palas (Kentico/Kentico Kontent)](https://twitter.com/PetrPalas) - Kentico founder and owner
+- [Michal Kadák (Kentico EMS)](https://twitter.com/MichalKadak) - Product Director - Kentico EMS
 
-- [Michal Kadák (Kentico EMS)](https://twitter.com/MichalKadak) - Kentico EMS product owner
+- [Ondřej Chrastina (Kentico EMS/Kentico Kontent)](https://twitter.com/ChrastinaOndrej) - Kentico Developer Advocate
 
-- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://twitter.com/ondrabus) - Kentico developer advocate
+- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://twitter.com/ondrabus) - Kentico Developer Evangelist
 
-- [Ondřej Chrastina (Kentico EMS/Kentico Kontent)](https://twitter.com/ChrastinaOndrej) - Kentico developer advocate
+- [Petr Palas (Kentico/Kentico Kontent)](https://twitter.com/PetrPalas) - Kentico CEO
 
-- [Petr Švihlík (Kentico EMS/Kentico Kontent)](https://twitter.com/PetrSvihlik) - Kentico developer / open-source advocate
+- [Petr Švihlík (Kentico EMS/Kentico Kontent)](https://twitter.com/PetrSvihlik) - Kentico Head of Developer Relations
 
-- [Ryan Overton (Kentico Kontent)](https://twitter.com/ryano9791) - Kentico developer advocate
+- [Ryan Overton (Kentico Kontent)](https://twitter.com/ryano9791) - Kentico Developer Evangelist
 
 #### Kentico on YouTube
 
 - [Kentico Kontent](https://www.youtube.com/channel/UCpaSGln6ywwyEr4z9_8-YAg/videos)
 
-- [MK's ketchup (Kentico EMS)](https://www.youtube.com/channel/UC_CnV72OeDm-ukP3XSIzZ-g) - Kentico EMS product owner's product discussions and announcements
+- [MK's ketchup (Kentico EMS)](https://www.youtube.com/channel/UC_CnV72OeDm-ukP3XSIzZ-g) - Kentico EMS product director's product discussions and announcements
 
 - [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
