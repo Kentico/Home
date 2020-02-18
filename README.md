@@ -4,7 +4,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 ## Our products and related open-source projects
 ### Kentico Kontent
-![Kentico Kontent logo](/images/kk-logo-hor-color-pos-sz-rgb.png)
+![Kentico Kontent logo](images/kk-logo-hor-color-pos-sz-rgb.png)
 
 [Kentico Kontent](https://kontent.ai/) is a cloud content hub built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kentico Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
