@@ -21,7 +21,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 ## Resources
 
-:bulb: Are you feeling lost in the stack of developer resources? 
+💡 Are you feeling lost in the stack of developer resources? 
 [The non-exhaustive list of developer resources](/RESOURCES) could help you find appropriate places related to Kentico EMS and Kentico Kontent.
 
 ## Getting support for open-source projects
