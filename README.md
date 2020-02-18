@@ -22,7 +22,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 ## Resources
 
 ℹ️ Are you feeling lost in the stack of developer resources? 
-[**The non-exhaustive list of developer resources**](/RESOURCES) could help you find appropriate places related to Kentico EMS and Kentico Kontent.
+[**The non-exhaustive list of developer resources**](/RESOURCES.md) could help you find appropriate places related to Kentico EMS and Kentico Kontent.
 
 💡 Wanna be part of the **Kentico GitHub Community**? See the [Kentico Github site](https://kentico.github.io) and join us if you like what you discover. After joining, you could also start browsing the [Kentico Github highlights](https://github.com/orgs/Kentico/teams/global-collaborators)!
 
