@@ -82,6 +82,8 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ilesh Mistry (Kentico MVP)](https://www.youtube.com/channel/UCJw61xmGGyVKskziXegliIw)
 
+- [Brian McKeiver (Kentico MVP)](https://www.youtube.com/channel/UCy6XSB_tJGTnAWEfLv2EqcA)
+
 #### Kentico on Twitch
 
 - [Ryan Overton (Kentico Kontent)](https://www.twitch.tv/developersgarage)
@@ -96,7 +98,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Brenden Kehren](https://twitter.com/bkehren) (Kentico EMS) - [Blog](https://www.kehrendev.com/blog/brenden-kehren)
 
-- [Brian McKeiver](https://twitter.com/mcbeev) (Kentico EMS) - [Blog](https://www.mcbeev.com/) / [Kentico Rocks Podcast](https://www.mcbeev.com/?tagname=Kentico+Rocks)
+- [Brian McKeiver](https://twitter.com/mcbeev) (Kentico EMS) - [Blog](https://www.mcbeev.com/) / [Kentico Rocks Podcast](https://www.mcbeev.com/kenticorocks)
 
 - [David te Kloese](https://twitter.com/David_TK) (Kentico EMS) - [Blog](https://devdavid.nl/)
 
@@ -195,3 +197,5 @@ Below are links to various places you can find the Kentico developer community.
 - [Kentico EMS MVC Components Library](https://github.com/Kentico/ems-mvc-components)
 
 - [Trevor Fayas' Repositories](https://github.com/KenticoDevTrev/)
+
+- [Toolkit for Kentico](https://www.toolkitforkentico.com/) / [NuGet](https://www.nuget.org/profiles/BizStream)
