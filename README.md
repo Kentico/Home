@@ -8,8 +8,9 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 [Kentico Kontent](https://kontent.ai/) is a cloud content hub built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kentico Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
-* List of [Kentico Kontent open-source projects](https://github.com/topics/kentico-kontent).
+* List of [Kentico Kontent open-source projects](https://github.com/topics/kentico-kontent)
 * [Guidelines for creating the Kentico Kontent Delivery SDK](https://github.com/Kentico/Home/wiki/Guidelines-for-SDK-developers)
+* [Guidelines for developing tools around Kentico Kontent APIs](https://github.com/Kentico/Home/wiki/Guidelines-for-Kontent-related-tools)
 
 
 ### Kentico EMS
