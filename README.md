@@ -18,6 +18,8 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 ### Kentico Xperience
 
+<br/>
+
 ![Kentico Xperience logo](/images/kx-logo-hor-color-pos-rgb_200px.png)
 
 [Kentico Xperience](https://www.kentico.com/) is content management, digital marketing, and commerce tools in a single platform for creating engaging digital experiences across channels, on-premises or in the cloud.
