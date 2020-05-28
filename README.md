@@ -26,6 +26,8 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 * List of [Kentico Xperience open-source projects](https://github.com/topics/kentico-xperience).
 
+> Previous versions (until version 12) of this product were named Kentico EMS, to see related repositories for these version see [kentico-ems](https://github.com/topics/kentico-ems) topic.
+
 ## Resources
 
 ℹ️ Are you feeling lost in the stack of developer resources? 
