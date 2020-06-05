@@ -1,6 +1,6 @@
 # Developer Resources
 
-Below is a non-exhaustive list of developer resources related to Kentico EMS and Kentico Kontent.
+Below is a non-exhaustive list of developer resources related to Kentico Xperience and Kentico Kontent.
 
 Some of the links below contain resources for both products, but the product focus has been added where applicable.
 
@@ -32,7 +32,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Kontent Community page](https://kontent.ai/community) - The central resource for the Kentico Kontent developer community
 
-- [Kentico DevNet](https://devnet.kentico.com/) - The central resource for the Kentico EMS developer community
+- [Kentico Xperience DevNet](https://devnet.kentico.com/) - The central resource for the Kentico Xperience developer community
 
 - [Kentico Community Slack](https://kentico-community.slack.com/) - A Slack workspace open to Kentico Gold Partners, invite-only to everyone else. If you'd like to join, contact one of the Kentico developer advocates or MVPs [below on Twitter](#kentico-mvps)
 
@@ -58,15 +58,17 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Design](https://twitter.com/KenticoDesign) - Kentico's internal designers
 
-- [Michal Kadák (Kentico EMS)](https://twitter.com/MichalKadak) - Product Director - Kentico EMS
+- [Michal Kadák (Kentico Xperience)](https://twitter.com/MichalKadak) - Product Director - Kentico Xperience
 
-- [Ondřej Chrastina (Kentico EMS/Kentico Kontent)](https://twitter.com/ChrastinaOndrej) - Kentico Developer Advocate
+- [Ondřej Chrastina (Kentico Xperience/Kentico Kontent)](https://twitter.com/ChrastinaOndrej) - Kentico Developer Advocate
 
-- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://twitter.com/ondrabus) - Kentico Developer Evangelist
+- [Martin Makarský (Kentico Xperience/Kentico Kontent)](https://twitter.com/MartinMakarsky) - Kentico Developer Advocate
+
+- [Ondrej Polesny (Kentico Xperience/Kentico Kontent)](https://twitter.com/ondrabus) - Kentico Developer Evangelist
 
 - [Petr Palas (Kentico/Kentico Kontent)](https://twitter.com/PetrPalas) - Kentico CEO
 
-- [Petr Švihlík (Kentico EMS/Kentico Kontent)](https://twitter.com/PetrSvihlik) - Kentico Head of Developer Relations
+- [Petr Švihlík (Kentico Xperience/Kentico Kontent)](https://twitter.com/PetrSvihlik) - Kentico Head of Developer Relations
 
 - [Ryan Overton (Kentico Kontent)](https://twitter.com/ryano9791) - Kentico Developer Evangelist
 
@@ -74,9 +76,9 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Kontent](https://www.youtube.com/channel/UCpaSGln6ywwyEr4z9_8-YAg/videos)
 
-- [MK's ketchup (Kentico EMS)](https://www.youtube.com/channel/UC_CnV72OeDm-ukP3XSIzZ-g) - Kentico EMS product director's product discussions and announcements
+- [MK's ketchup (Kentico Xperience)](https://www.youtube.com/channel/UC_CnV72OeDm-ukP3XSIzZ-g) - Kentico Xperience product director's product discussions and announcements
 
-- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
+- [Ondrej Polesny (Kentico Xperience/Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
 - [Ryan Overton (Kentico Kontent)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
 
@@ -88,45 +90,45 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ryan Overton (Kentico Kontent)](https://www.twitch.tv/developersgarage)
 
-- [Ondrej Polesny (Kentico EMS/Kentico Kontent)](https://www.twitch.tv/ondrabus)
+- [Ondrej Polesny (Kentico Xperience/Kentico Kontent)](https://www.twitch.tv/ondrabus)
 
 ### Kentico MVPs
 
-- [Andy Thompson](https://twitter.com/andythompy) (Kentico EMS / Kentico Kontent) - [Blog](https://www.luminary.com/andy)
+- [Andy Thompson](https://twitter.com/andythompy) (Kentico Xperience / Kentico Kontent) - [Blog](https://www.luminary.com/andy)
 
-- [Dmitry Bastron](https://twitter.com/Diger_74) (Kentico EMS) - [Blog](https://diger74.net/)
+- [Dmitry Bastron](https://twitter.com/Diger_74) (Kentico Xperience) - [Blog](https://diger74.net/)
 
-- [Brenden Kehren](https://twitter.com/bkehren) (Kentico EMS) - [Blog](https://www.kehrendev.com/blog/brenden-kehren)
+- [Brenden Kehren](https://twitter.com/bkehren) (Kentico Xperience) - [Blog](https://www.kehrendev.com/blog/brenden-kehren)
 
-- [Brian McKeiver](https://twitter.com/mcbeev) (Kentico EMS) - [Blog](https://www.mcbeev.com/) / [Kentico Rocks Podcast](https://www.mcbeev.com/kenticorocks)
+- [Brian McKeiver](https://twitter.com/mcbeev) (Kentico Xperience) - [Blog](https://www.mcbeev.com/) / [Kentico Rocks Podcast](https://www.mcbeev.com/kenticorocks)
 
-- [David te Kloese](https://twitter.com/David_TK) (Kentico EMS) - [Blog](https://devdavid.nl/)
+- [David te Kloese](https://twitter.com/David_TK) (Kentico Xperience) - [Blog](https://devdavid.nl/)
 
-- [Sean G. Wright](https://twitter.com/seangwright) (Kentico EMS - [Blog](https://dev.to/seangwright)
+- [Sean G. Wright](https://twitter.com/seangwright) (Kentico Xperience - [Blog](https://dev.to/seangwright)
 
 - [Richard Shackleton](https://twitter.com/shackleberry112) (Kentico Kontent) - [Blog](https://rshackleton.co.uk/articles)
 
 - [Ilesh Mistry](https://twitter.com/ileshmistry) (Kentico Kontent) - [Blog](https://www.ileshmistry.com/posts/)
 
-- [Jeroen Fürst](https://twitter.com/jeroenfurst) (Kentico EMS/Kentico Kontent) - [Blog](https://blogs.jeroenfurst.nl/)
+- [Jeroen Fürst](https://twitter.com/jeroenfurst) (Kentico Xperience/Kentico Kontent) - [Blog](https://blogs.jeroenfurst.nl/)
 
-- [Matt Nield](https://twitter.com/mnield) (Kentico EMS/Kentico Kontent) - [Blog](https://www.mattnield.co.uk/blog/)
+- [Matt Nield](https://twitter.com/mnield) (Kentico Xperience/Kentico Kontent) - [Blog](https://www.mattnield.co.uk/blog/)
 
-- [Michael Kinkaid](https://twitter.com/MeAndMyRobot) (Kentico EMS/Kentico Kontent) - [Blog](https://www.ecentricarts.com/blog/)
+- [Michael Kinkaid](https://twitter.com/MeAndMyRobot) (Kentico Xperience/Kentico Kontent) - [Blog](https://www.ecentricarts.com/blog/)
 
-- [Mike Wills](https://twitter.com/@tiriansdoor) (Kentico EMS) - [Blog](https://bluemodus.com/articles/colleague/mike-wills)
+- [Mike Wills](https://twitter.com/@tiriansdoor) (Kentico Xperience) - [Blog](https://bluemodus.com/articles/colleague/mike-wills)
 
-- [Trevor Fayas](https://twitter.com/DevTrev_Kentico) (Kentico EMS) - [Blog](<http://www.devtrev.com/Trev-Tips-(Blog)>)
+- [Trevor Fayas](https://twitter.com/DevTrev_Kentico) (Kentico Xperience) - [Blog](<http://www.devtrev.com/Trev-Tips-(Blog)>)
 
 ## Blogs
 
 ### Kentico Blogs
 
-- [Kentico Blog](https://www.kentico.com/blog)
+- [Kentico Xperience Blog](https://xperience.io/discover/blog?page=1)
 
 - [Kentico Kontent Blog](https://kontent.ai/blog)
 
-- [Kentico DevNet Articles](https://devnet.kentico.com/articles)
+- [Kentico Xperience DevNet Articles](https://devnet.kentico.com/articles)
 
 - [Kentico tag on DEV.TO](https://dev.to/tag/kentico)
 
@@ -184,7 +186,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Kontent Repositories on GitHub](https://github.com/Kentico?utf8=%E2%9C%93&q=kontent&type=&language=)
 
-- [Ondřej Chrastina (Kentico EMS/Kentico Kontent)](https://github.com/Simply007)
+- [Ondřej Chrastina (Kentico Xperience/Kentico Kontent)](https://github.com/Simply007)
 
 ### Kentico EMS Libraries
 
