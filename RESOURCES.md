@@ -19,10 +19,10 @@ Some of the links below contain resources for both products, but the product foc
         - [Other](#other)
     - [Documentation](#documentation)
         - [Kentico Kontent Docs](#kentico-kontent-docs)
-        - [Kentico EMS Docs](#kentico-ems-docs)
+        - [Kentico Xperience Docs](#kentico-xperience-docs)
     - [Libraries](#libraries)
         - [Kentico Kontent Libraries](#kentico-kontent-libraries)
-        - [Kentico EMS Libraries](#kentico-ems-libraries)
+        - [Kentico Xperience Libraries](#kentico-xperience-libraries)
 
 <!-- /TOC -->
 
@@ -47,6 +47,8 @@ Below are links to various places you can find the Kentico developer community.
 - [Kentico User Group on LinkedIn](https://www.linkedin.com/groups/970177/) - Public Kentico group on LinkedIn
 
 - [Kentico Certified Developers Group on LinkedIn](https://www.linkedin.com/groups/3172023/) - Kentico LinkedIn group for all Kentico certified developers
+
+- [Kentico Xperience Product Suggestions](https://portal.productboard.com/kenticoxperience/) - Product Board site to discuss, recommend, and vote on ideas for the Kentico Xperience platform
 
 ### Kentico Company & Employees on Social Media
 
@@ -164,9 +166,9 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Kontent Documentation](https://docs.kontent.ai/)
 
-### Kentico EMS Docs
+### Kentico Xperience Docs
 
-- [Kentico EMS Documentation](https://devnet.kentico.com/documentation/)
+- [Kentico Xperience Documentation](https://devnet.kentico.com/documentation/)
 
 - [ASP.NET MVC 5 (Kentico 12) Microsoft Documentation](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
 
@@ -174,7 +176,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico LearningKit MVC Demo](https://github.com/KenticoInternal/LearningKit-Mvc)
 
-- [Kentico EMS MVC Component Starter](https://github.com/Kentico/ems-mvc-component-starter)
+- [Kentico Xperience MVC Component Starter](https://github.com/Kentico/ems-mvc-component-starter)
 
 ## Libraries
 
@@ -188,15 +190,15 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ondřej Chrastina (Kentico Xperience/Kentico Kontent)](https://github.com/Simply007)
 
-### Kentico EMS Libraries
+### Kentico Xperience Libraries
 
 - [Kentico Marketplace](https://devnet.kentico.com/marketplace)
 
 - [Kentico Marketplace Contribution Repository on GitHub](https://github.com/Kentico/devnet.kentico.com)
 
-- [Kentico EMS Repositories on GitHub](https://github.com/Kentico?utf8=%E2%9C%93&q=ems&type=&language=)
+- [Kentico Xperience Repositories on GitHub](https://github.com/Kentico?utf8=%E2%9C%93&q=ems&type=&language=)
 
-- [Kentico EMS MVC Components Library](https://github.com/Kentico/ems-mvc-components)
+- [Kentico Xperience MVC Components Library](https://github.com/Kentico/ems-mvc-components)
 
 - [Trevor Fayas' Repositories](https://github.com/KenticoDevTrev/)
 
