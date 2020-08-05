@@ -70,7 +70,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Petr Švihlík (Kentico Xperience/Kentico Kontent)](https://twitter.com/PetrSvihlik) - Kentico Head of Developer Relations
 
-- [Ryan Overton (Kentico Kontent)](https://twitter.com/ryano9791) - Kentico Developer Evangelist
+- [Ryan Overton (Kentico Xperience)](https://twitter.com/ryano9791) - Kentico Developer Evangelist
 
 #### Kentico on YouTube
 
@@ -80,7 +80,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ondrej Polesny (Kentico Xperience/Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
-- [Ryan Overton (Kentico Kontent)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
+- [Ryan Overton (Kentico Xperience/Kentico Kontent)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
 
 - [Ilesh Mistry (Kentico MVP)](https://www.youtube.com/channel/UCJw61xmGGyVKskziXegliIw)
 
@@ -88,7 +88,7 @@ Below are links to various places you can find the Kentico developer community.
 
 #### Kentico on Twitch
 
-- [Ryan Overton (Kentico Kontent)](https://www.twitch.tv/developersgarage)
+- [Ryan Overton (Kentico Xperience/Kentico Kontent)](https://www.twitch.tv/developersgarage)
 
 - [Ondrej Polesny (Kentico Xperience/Kentico Kontent)](https://www.twitch.tv/ondrabus)
 
