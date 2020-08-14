@@ -17,6 +17,9 @@ Some of the links below contain resources for both products, but the product foc
             - [Kentico on YouTube](#kentico-on-youtube)
             - [Kentico on Twitch](#kentico-on-twitch)
         - [Kentico MVPs](#kentico-mvps)
+            - [Xperience and Kontent](#xperience-and-kontent-mvps)
+            - [Kontent](#kontent-mvps)
+            - [Xperience](#xperience-mvps)
     - [Blogs](#blogs)
         - [Kentico Blogs](#kentico-blogs)
         - [Partner Blogs](#partner-blogs)
@@ -44,7 +47,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Kontent MVPs](https://kontent.ai/blog/mvp-announcement) - List of all Kentico Kontent MVPs
 
-- [Kentico Xperience MVPs](https://www.kentico.com/company/mvp) - List of all Kentico Xperience MVPs
+- [Kentico Xperience MVPs](https://xperience.io/partnership/mvp-program) - List of all Kentico Xperience MVPs
 
 - [Kentico Partners](https://www.kentico.com/partners/solution-partners) - Kentico solution partners search page
 
@@ -104,13 +107,13 @@ Below are links to various places you can find the Kentico developer community.
 
 ### Kentico MVPs
 
-#### Xperience and Kontent
+#### Xperience and Kontent MVPs
 
 - [Andy Thompson](https://twitter.com/andythompy) (Kentico Xperience / Kentico Kontent) - [Blog](https://www.luminary.com/andy)
 
 - [Brian McKeiver](https://twitter.com/mcbeev) (Kentico Xperience / Kentico Kontent) - [Blog](https://www.mcbeev.com/) / [Kentico Rocks Podcast](https://www.mcbeev.com/kenticorocks)
 
-#### Kontent
+#### Kontent MVPs
 
 - [Richard Shackleton](https://twitter.com/shackleberry112) (Kentico Kontent) - [Blog](https://rshackleton.co.uk/articles)
 
@@ -122,7 +125,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Michael Kinkaid](https://twitter.com/MeAndMyRobot) (Kentico Kontent) - [Blog](https://www.ecentricarts.com/blog/)
 
-#### Xperience
+#### Xperience MVPs
 
 - [Dmitry Bastron](https://twitter.com/Diger_74) (Kentico Xperience) - [Blog](https://diger74.net/)
 
