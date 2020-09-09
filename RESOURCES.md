@@ -185,6 +185,8 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Liam Goldfinch](https://www.goldfinch.me/blog/) (Xperience)
 
+- [Jen Wolke](https://bluemodus.com/articles/colleague/jen-wolke) (Xperience)
+
 - [Ynze Nunnink](https://dev.to/ynze) (Xperience)
 
 - [Chris Bass](https://chrisbass.wakeflyexperts.com/blog) (Xperience)
