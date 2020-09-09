@@ -179,6 +179,12 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Roman Hutnyk](https://bitsorchestra.com/Idea)
 
+- [Liam Goldfinch](https://www.goldfinch.me/blog/)
+
+- [Ynze Nunnink](https://dev.to/ynze)
+
+- [Chris Bass](https://chrisbass.wakeflyexperts.com/blog)
+
 ## Documentation
 
 ### Kentico Kontent Docs
