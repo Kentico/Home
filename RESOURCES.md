@@ -175,7 +175,7 @@ Below are links to various places you can find the Kentico developer community.
 
 - [NetConstruct](https://www.netconstruct.com/insights)
 
-### Other
+### Community Members
 
 - [Carly Lyddiard](https://carly.io/category/kentico/) (Xperience)
 
@@ -188,6 +188,10 @@ Below are links to various places you can find the Kentico developer community.
 - [Ynze Nunnink](https://dev.to/ynze) (Xperience)
 
 - [Chris Bass](https://chrisbass.wakeflyexperts.com/blog) (Xperience)
+
+- [Lee Conlin](https://leeconlin.co.uk/blog/) (Xperience)
+
+- [Laura Frese](https://www.refactoredmedia.com/blog/authors/laura-frese) (Xperience)
 
 ## Documentation
 
