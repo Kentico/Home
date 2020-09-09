@@ -87,11 +87,15 @@ Below are links to various places you can find the Kentico developer community.
 
 #### Kentico on YouTube
 
+- [Kentico Software](https://www.youtube.com/channel/UC65aoVOk-aRleIFC79U9g_A)
+
 - [Kentico Kontent](https://www.youtube.com/channel/UCpaSGln6ywwyEr4z9_8-YAg/videos)
+
+- [Kentico Xperience](https://www.youtube.com/channel/UCTG_CvDzyYioDhEP2VYBMvg)
 
 - [Ondrej Polesny (Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
-- [Ryan Overton (Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
+- [Ryan Overton - Developers Garage (Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
 
 - [Ilesh Mistry (Kentico Kontent MVP)](https://www.youtube.com/channel/UCJw61xmGGyVKskziXegliIw)
 
@@ -173,17 +177,17 @@ Below are links to various places you can find the Kentico developer community.
 
 ### Other
 
-- [Carly Lyddiard](https://carly.io/category/kentico/)
+- [Carly Lyddiard](https://carly.io/category/kentico/) (Xperience)
 
-- [Kristian Bortnik](https://www.kenticotricks.com/)
+- [Kristian Bortnik](https://www.kenticotricks.com/) (Xperience)
 
-- [Roman Hutnyk](https://bitsorchestra.com/Idea)
+- [Roman Hutnyk](https://bitsorchestra.com/Idea) (Xperience)
 
-- [Liam Goldfinch](https://www.goldfinch.me/blog/)
+- [Liam Goldfinch](https://www.goldfinch.me/blog/) (Xperience)
 
-- [Ynze Nunnink](https://dev.to/ynze)
+- [Ynze Nunnink](https://dev.to/ynze) (Xperience)
 
-- [Chris Bass](https://chrisbass.wakeflyexperts.com/blog)
+- [Chris Bass](https://chrisbass.wakeflyexperts.com/blog) (Xperience)
 
 ## Documentation
 
