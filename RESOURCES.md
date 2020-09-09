@@ -236,3 +236,7 @@ Below are links to various places you can find the Kentico developer community.
 - [Trevor Fayas' Repositories](https://github.com/KenticoDevTrev/)
 
 - [Toolkit for Kentico](https://www.toolkitforkentico.com/) / [NuGet](https://www.nuget.org/profiles/BizStream)
+
+- [Chris Meagher's Kentico Contrib Repositories](https://github.com/CMeeg/kentico-contrib)
+
+- [Kentico Fluent Cache Keys](https://github.com/wiredviews/kentico-fluent-cache-keys)
