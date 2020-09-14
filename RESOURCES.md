@@ -87,11 +87,15 @@ Below are links to various places you can find the Kentico developer community.
 
 #### Kentico on YouTube
 
+- [Kentico Software](https://www.youtube.com/channel/UC65aoVOk-aRleIFC79U9g_A)
+
 - [Kentico Kontent](https://www.youtube.com/channel/UCpaSGln6ywwyEr4z9_8-YAg/videos)
+
+- [Kentico Xperience](https://www.youtube.com/channel/UCTG_CvDzyYioDhEP2VYBMvg)
 
 - [Ondrej Polesny (Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
-- [Ryan Overton (Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
+- [Ryan Overton - Developers Garage (Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
 
 - [Ilesh Mistry (Kentico Kontent MVP)](https://www.youtube.com/channel/UCJw61xmGGyVKskziXegliIw)
 
@@ -171,13 +175,25 @@ Below are links to various places you can find the Kentico developer community.
 
 - [NetConstruct](https://www.netconstruct.com/insights)
 
-### Other
+### Community Members
 
-- [Carly Lyddiard](https://carly.io/category/kentico/)
+- [Carly Lyddiard](https://carly.io/category/kentico/) (Xperience)
 
-- [Kristian Bortnik](https://www.kenticotricks.com/)
+- [Kristian Bortnik](https://www.kenticotricks.com/) (Xperience)
 
-- [Roman Hutnyk](https://bitsorchestra.com/Idea)
+- [Roman Hutnyk](https://bitsorchestra.com/Idea) (Xperience)
+
+- [Liam Goldfinch](https://www.goldfinch.me/blog/) (Xperience)
+
+- [Jen Wolke](https://bluemodus.com/articles/colleague/jen-wolke) (Xperience)
+
+- [Ynze Nunnink](https://dev.to/ynze) (Xperience)
+
+- [Chris Bass](https://chrisbass.wakeflyexperts.com/blog) (Xperience)
+
+- [Lee Conlin](https://leeconlin.co.uk/blog/) (Xperience)
+
+- [Laura Frese](https://www.refactoredmedia.com/blog/authors/laura-frese) (Xperience)
 
 ## Documentation
 
@@ -222,3 +238,7 @@ Below are links to various places you can find the Kentico developer community.
 - [Trevor Fayas' Repositories](https://github.com/KenticoDevTrev/)
 
 - [Toolkit for Kentico](https://www.toolkitforkentico.com/) / [NuGet](https://www.nuget.org/profiles/BizStream)
+
+- [Chris Meagher's Kentico Contrib Repositories](https://github.com/CMeeg/kentico-contrib)
+
+- [Kentico Fluent Cache Keys](https://github.com/wiredviews/kentico-fluent-cache-keys)
