@@ -225,6 +225,8 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ondřej Chrastina (Kentico Kontent)](https://github.com/Simply007)
 
+- [Michael Berry (Kentico Kontent)](https://github.com/kentico-michaelb)
+
 ### Kentico Xperience Libraries
 
 - [Kentico Xperience Marketplace](https://devnet.kentico.com/marketplace)
