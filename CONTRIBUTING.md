@@ -35,7 +35,7 @@ Everybody loves new features! You can submit a new [feature request](../../issue
 ## Submitting pull requests
 <img align="right" width="100" height="100" src="https://i.imgur.com/aSeiliy.png">
 
-Unless you're fixing a typo, it's usually a good idea to discuss the feature before you submit a pull request with code changes, so let's start with submitting a new [GitHub issue](../../issues) and discussing the whether it fits the vision of a given project.
+Unless you're fixing a typo, it's usually a good idea to discuss the feature before you submit a pull request with code changes, so let's start with submitting a new [GitHub issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) and discussing the whether it fits the vision of a given project.
 You might also read these two blogs posts on contributing code: [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html) by Miguel de Icaza and [Don't "Push" Your Pull Requests](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) by Ilya Grigorik. Note that all code submissions will be rigorously reviewed and tested by the Kentico Maintainers teams, and only those that meet an high bar for both quality and design/roadmap appropriateness will be merged into the source.
 
 
