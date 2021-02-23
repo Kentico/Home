@@ -48,4 +48,3 @@ Read [CONTRIBUTING.md](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.
 
 The Kentico team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/Kentico/Home/blob/master/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at devrel@kentico.com.
 
-![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/Home?pixel)
