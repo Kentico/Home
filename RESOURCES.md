@@ -93,6 +93,8 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Xperience](https://www.youtube.com/channel/UCTG_CvDzyYioDhEP2VYBMvg)
 
+  - [Ask the Experts: Xperience Edition](https://www.youtube.com/playlist?list=PL9RdJplq_ukZd61p4S_JTDZOgsbxx7r2T) livestream series
+
 - [Ondrej Polesny (Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
 - [Ryan Overton - Developers Garage (Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
@@ -119,29 +121,37 @@ Below are links to various places you can find the Kentico developer community.
 
 #### Kontent MVPs
 
-- [Richard Shackleton](https://twitter.com/shackleberry112) (Kentico Kontent) - [Blog](https://rshackleton.co.uk/articles)
+[Full list of Kontent MVPs](https://kontent.ai/mvp-program)
 
-- [Ilesh Mistry](https://twitter.com/ileshmistry) (Kentico Kontent) - [Blog](https://www.ileshmistry.com/posts/)
+- [Richard Shackleton](https://twitter.com/shackleberry112) - [Blog](https://rshackleton.co.uk/articles)
 
-- [Jeroen Fürst](https://twitter.com/jeroenfurst) (Kentico Kontent) - [Blog](https://blogs.jeroenfurst.nl/)
+- [Ilesh Mistry](https://twitter.com/ileshmistry) - [Blog](https://www.ileshmistry.com/posts/)
 
-- [Matt Nield](https://twitter.com/mnield) (Kentico Kontent) - [Blog](https://www.mattnield.co.uk/blog/)
+- [Matt Nield](https://twitter.com/mnield) - [Blog](https://www.mattnield.co.uk/blog/)
 
-- [Michael Kinkaid](https://twitter.com/MeAndMyRobot) (Kentico Kontent) - [Blog](https://www.ecentricarts.com/blog/)
+- [Michael Kinkaid](https://twitter.com/MeAndMyRobot) - [Blog](https://www.ecentricarts.com/blog/)
+
+- [Kristian Tasevski](https://twitter.com/KristianTT) - [Blog](https://kontent.ai/blog/author/kristian-tasevski)
 
 #### Xperience MVPs
 
-- [Dmitry Bastron](https://twitter.com/Diger_74) (Kentico Xperience) - [Blog](https://diger74.net/)
+[Full list of Xperience MVPs](https://xperience.io/partnership/mvp-program)
 
-- [Brenden Kehren](https://twitter.com/bkehren) (Kentico Xperience) - [Blog](https://www.kehrendev.com/blog/brenden-kehren)
+- [Brenden Kehren](https://twitter.com/bkehren) - [Blog](https://www.kehrendev.com/blog/brenden-kehren)
 
-- [David te Kloese](https://twitter.com/David_TK) (Kentico Xperience) - [Blog](https://devdavid.nl/)
+- [David te Kloese](https://twitter.com/David_TK) - [Blog](https://devdavid.nl/)
 
-- [Sean G. Wright](https://twitter.com/seangwright) (Kentico Xperience - [Blog](https://dev.to/seangwright)
+- [Dmitry Bastron](https://twitter.com/Diger_74) - [Blog](https://diger74.net/)
 
-- [Mike Wills](https://twitter.com/@tiriansdoor) (Kentico Xperience) - [Blog](https://bluemodus.com/articles/colleague/mike-wills)
+- [Jeroen Furst](https://twitter.com/jeroenfurst) - [Blog](https://blogs.jeroenfurst.nl/)
 
-- [Trevor Fayas](https://twitter.com/DevTrev_Kentico) (Kentico Xperience) - [Blog](<http://www.devtrev.com/Trev-Tips-(Blog)>)
+- [Jake Kula](https://twitter.com/JakeKula) - [Blog](https://jake-kula.medium.com/)
+
+- [Mike Wills](https://twitter.com/@tiriansdoor) - [Blog](https://bluemodus.com/articles/colleague/mike-wills)
+
+- [Trevor Fayas](https://twitter.com/DevTrev_Kentico) - [Blog](<http://www.devtrev.com/Trev-Tips-(Blog)>)
+
+- [Sean G. Wright](https://twitter.com/seangwright) - [Blog](https://dev.to/seangwright)
 
 ## Blogs
 
@@ -205,13 +215,23 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Xperience Documentation](https://devnet.kentico.com/documentation/)
 
-- [ASP.NET MVC 5 (Kentico 12) Microsoft Documentation](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+- [Kentico Xperience API Documentation](https://docs.xperience.io/13api)
 
-- [ASP.NET MVC 5 (Kentico 12) Source Code on GitHub](https://github.com/aspnet/AspNetWebStack)
+- ASP.NET (<= Kentico Xperience 13)
+  - [ASP.NET MVC 5 (Kentico 12) Microsoft Documentation](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+  - [ASP.NET MVC 5 (Kentico 12) Source Code](https://github.com/aspnet/AspNetWebStack) on GitHub
+  - [Kentico LearningKit MVC Demo](https://github.com/KenticoInternal/LearningKit-Mvc)
+  - [Kentico 12: Medio Clinic Training App](https://github.com/Kentico/training-kentico-k12)
+  - [Kentico Xperience MVC Component Starter](https://github.com/Kentico/xperience-component-starter/tree/949b5ac61bc32189012a6b78a4fd03d084d4128a)
 
-- [Kentico LearningKit MVC Demo](https://github.com/KenticoInternal/LearningKit-Mvc)
+- ASP.NET Core (>= Kentico Xperience 13)
+  - [ASP.NET Core Microsoft Documentation](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0)
+  - [ASP.NET Core Source Code](https://github.com/dotnet/aspnetcore)  on GitHub
+  - [Kentico Xperience LearningKit Core Demo](https://github.com/KenticoInternal/LearningKit-Core) (for ASP.NET Core)
+  - [Kentico Xperience: Medio Clinic Training App](https://github.com/Kentico/xperience-training-13) (for ASP.NET Core)
+  - [Kentico Xperience MVC Component Starter](https://github.com/Kentico/xperience-component-starter/)
 
-- [Kentico Xperience MVC Component Starter](https://github.com/Kentico/ems-mvc-component-starter)
+> Learn more about [Xperience sample codebases and demo applications](https://devnet.kentico.com/articles/differences-between-kentico-xperience-sample-sites)
 
 ## Libraries
 
