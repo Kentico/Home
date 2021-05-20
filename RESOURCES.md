@@ -75,15 +75,15 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ondřej Chrastina (Kentico Kontent)](https://twitter.com/ChrastinaOndrej) - Kentico Kontent Developer Advocate
 
-- [Martin Makarský (Kentico Kontent)](https://twitter.com/MartinMakarsky) - Kentico Kontent Developer Advocate
-
 - [Ondrej Polesny (Kentico Kontent)](https://twitter.com/ondrabus) - Kentico Kontent Developer Evangelist
 
 - [Petr Palas (Kentico/Kentico Kontent)](https://twitter.com/PetrPalas) - Kentico CEO
 
-- [Petr Švihlík (Kentico Kontent)](https://twitter.com/PetrSvihlik) - Kentico Head of Developer Relations
+---
 
-- [Ryan Overton (Kentico Xperience)](https://twitter.com/ryano9791) - Kentico Xperience Developer Evangelist
+> - [Petr Švihlík (Kentico Kontent)](https://twitter.com/PetrSvihlik) - _Former_ Kentico Head of Developer Relations
+> - [Ryan Overton (Kentico Xperience)](https://twitter.com/ryano9791) - _Former_ Kentico Xperience Developer Evangelist
+> - [Martin Makarský (Kentico Kontent)](https://twitter.com/MartinMakarsky) - _Former_ Kentico Kontent Developer Advocate
 
 #### Kentico on YouTube
 
@@ -97,19 +97,23 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Ondrej Polesny (Kentico Kontent)](https://www.youtube.com/channel/UCZ3y6e-1BN5XoKzlQxOocHg/videos?view_as=subscriber)
 
-- [Ryan Overton - Developers Garage (Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
-
 - [Ilesh Mistry (Kentico Kontent MVP)](https://www.youtube.com/channel/UCJw61xmGGyVKskziXegliIw)
 
 - [Brian McKeiver (Kentico Kontent/Xperience MVP)](https://www.youtube.com/channel/UCy6XSB_tJGTnAWEfLv2EqcA)
 
 - [Michael Kinkaid (Kentico Kontent MVP)](https://www.youtube.com/channel/UCkud0Pz-lzvtvLTvmHUX3Ow)
 
+---
+
+> - [Ryan Overton - Developers Garage (_Former_ Kentico Xperience)](https://www.youtube.com/channel/UCp7TjW2p43aNzkMEBYJ8inw)
+
 #### Kentico on Twitch
 
-- [Ryan Overton (Kentico Xperience)](https://www.twitch.tv/developersgarage)
-
 - [Ondrej Polesny (Kentico Kontent)](https://www.twitch.tv/ondrabus)
+
+--- 
+
+> - [Ryan Overton (_Former_ Kentico Xperience)](https://www.twitch.tv/developersgarage)
 
 ### Kentico MVPs
 
