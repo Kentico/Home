@@ -33,7 +33,15 @@ Welcome to the world of Kentico open source software. This is the home repositor
 ℹ️ Are you feeling lost in the stack of developer resources? 
 [**The non-exhaustive list of developer resources**](/RESOURCES.md) could help you find appropriate places related to Kentico Kontent and Kentico Xperience.
 
-💡 Wanna be part of the **Kentico GitHub Community**? See the [Kentico Github site](https://kentico.github.io) and join us if you like what you discover. After joining, you could also start browsing the [Kentico Github highlights](https://github.com/orgs/Kentico/teams/global-collaborators)!
+[![Developer Resources](https://img.shields.io/badge/-Developer%20Resources-blue?style=for-the-badge)](https://kentico.github.io/Home/RESOURCES)
+
+💡 Wanna be part of the **Kentico GitHub Community**? See the [Kentico Github site](https://kentico.github.io) and join Kentico Github Organization if you like what you discover. Join Kentico GitHub Organization and start exploring the [Kentico Github Organization](https://github.com/Kentico)!
+
+[![Join Kentico GitHub Organization](https://img.shields.io/badge/-Join%20Kentico%20GitHub%20Organization-%23F05A22?style=for-the-badge)](https://kentico.github.io/join)
+
+🗣 Talk about Kontent, be up-to-date on interesting feature releases, events, and everything else that happens around Kontent.
+
+[![Konten Discord](https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord&style=for-the-badge)](https://bit.ly/kontent-discord)
 
 ## Getting support for open-source projects
 
