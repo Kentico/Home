@@ -246,10 +246,31 @@ Below are links to various places you can find the Kentico developer community.
 ### Kentico Kontent Libraries
 
 - [Kentico Kontent Repositories on GitHub](https://github.com/Kentico?utf8=%E2%9C%93&q=kontent&type=&language=)
-
+  - Delivery SDK
+    - [.NET](https://github.com/Kentico/kontent-delivery-sdk-net)
+    - [Javascript](https://github.com/Kentico/kontent-delivery-sdk-js)    
+    - [Java](https://github.com/Kentico/kontent-java-packages)
+    - [PHP](https://github.com/Kentico/kontent-delivery-sdk-php)
+    - [Ruby](https://github.com/Kentico/kontent-delivery-sdk-ruby)
+    - [Swift](https://github.com/Kentico/kontent-delivery-sdk-swift)
+  - Management SDK
+    - [.NET](https://github.com/Kentico/kontent-management-sdk-net)
+    - [Javascript](https://github.com/Kentico/kontent-management-sdk-js)
+  - Others  
+    - [Gatsby](https://github.com/Kentico/kontent-gatsby-packages)
+    - [Custom elements Gallery](https://github.com/Kentico/kontent-custom-element-samples)
+    - [Template mManager](https://github.com/Kentico/kontent-template-manager)
+    - [Smart Link SDK](https://github.com/Kentico/kontent-smart-link)
+    - [Javascript Webhook Helper](https://github.com/Kentico/kontent-webhook-helper-js)
+    - [Google Sheets Addon](https://github.com/Kentico/kontent-google-sheets-add-on)
 - [Ondřej Chrastina (Kentico Kontent)](https://github.com/Simply007)
-
+  - [Environments Comparer](https://github.com/Simply007/kontent-environments-comparer)
+  - [Data Generator](https://github.com/Simply007/kontent-data-generator)
 - [Michael Berry (Kentico Kontent)](https://github.com/kentico-michaelb)
+  - [Delivery SDK Python](https://github.com/kentico-michaelb/kontent-delivery-python-sdk)
+  - [Kontent Konstellations - Kontent Items Report](https://github.com/kentico-michaelb/kontent-linked-report) 
+- [Rostislav Striz](https://github.com/strizr)
+  - [Algolia Sync](https://github.com/strizr/kontent-algolia-sync)
 
 ### Kentico Xperience Libraries
 
