@@ -259,7 +259,7 @@ Below are links to various places you can find the Kentico developer community.
   - Others  
     - [Gatsby](https://github.com/Kentico/kontent-gatsby-packages)
     - [Custom elements Gallery](https://github.com/Kentico/kontent-custom-element-samples)
-    - [Template mManager](https://github.com/Kentico/kontent-template-manager)
+    - [Template Manager](https://github.com/Kentico/kontent-template-manager)
     - [Smart Link SDK](https://github.com/Kentico/kontent-smart-link)
     - [Javascript Webhook Helper](https://github.com/Kentico/kontent-webhook-helper-js)
     - [Google Sheets Addon](https://github.com/Kentico/kontent-google-sheets-add-on)
