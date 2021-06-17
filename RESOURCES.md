@@ -271,6 +271,9 @@ Below are links to various places you can find the Kentico developer community.
   - [Kontent Konstellations - Kontent Items Report](https://github.com/kentico-michaelb/kontent-linked-report) 
 - [Rostislav Striz](https://github.com/strizr)
   - [Algolia Sync](https://github.com/strizr/kontent-algolia-sync)
+- [Eric Dugre](https://github.com/kentico-ericd)
+  - [Kontent Rich Text Validator](https://github.com/kentico-ericd/kontent-richtext-validation)
+  - [Deno VR sample project](https://github.com/kentico-ericd/kontent-deno-vr)
 
 ### Kentico Xperience Libraries
 
