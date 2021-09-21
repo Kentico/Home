@@ -45,13 +45,13 @@ Below are links to various places you can find the Kentico developer community.
 
   Technical discussions about, and developer advice for both Kontent and Experience can be found here.
 
-- [Kontent MVPs](https://kontent.ai/blog/mvp-announcement) - List of all Kentico Kontent MVPs
+- [Kontent MVPs](https://kontent.ai/blog/mvp-announcement) - List of all Kontent MVPs
 
 - [Xperience MVPs](https://xperience.io/partnership/mvp-program) - List of all Xperience MVPs
 
 - [Kentico Partners](https://www.kentico.com/partners/solution-partners) - Kentico solution partners search page
 
-- [Kontent on StackOverflow](https://stackoverflow.com/tags/kentico-kontent) - Kentico Kontent questions on Stack Overflow
+- [Kontent on StackOverflow](https://stackoverflow.com/tags/kentico-kontent) - Kontent questions on Stack Overflow
 
 - [Kentico Community on GitHub](https://kentico.github.io/join/) - Kentico GitHub organization
 
@@ -73,9 +73,9 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Kentico Design](https://twitter.com/KenticoDesign) - Kentico's internal designers
 
-- [Ondřej Chrastina (Kontent)](https://twitter.com/ChrastinaOndrej) - Kontent Developer Advocate
+- [Ondřej Chrastina (Kontent)](https://twitter.com/ChrastinaOndrej) - DevRel Leader at Kontent by Kentico
 
-- [Ondrej Polesny (Kontent)](https://twitter.com/ondrabus) - Kontent Developer Evangelist
+- [Ondrej Polesny (Kontent)](https://twitter.com/ondrabus) - Developer Evangelist at Kontent by Kentico
 
 - [Petr Palas (Kentico/Kontent)](https://twitter.com/PetrPalas) - Kentico CEO
 
