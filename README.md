@@ -7,7 +7,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 ## Our products and related open-source projects
 
 ### Kontent by Kentico
-<img alt="Kontent by Kentico logo" src="/images/kk-logo---by-k---hor-color-pos-sz-rgb.png" width="200"/>
+<img alt="Kontent by Kentico logo" src="/images/kk-logo---by-k---hor-color-pos-sz-rgb-white-bg.png" width="200"/>
 
 [Kontent](https://kontent.ai/) is a cloud-based content management platform built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
@@ -20,7 +20,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 <br/>
 
-<img alt="Kentico Xperience logo" src="/images/kx-logo-by-kentico-hor-color-pos-sz-rgb.png" width="200"/>
+<img alt="Kentico Xperience logo" src="/images/kx-logo-by-kentico-hor-color-pos-sz-rgb-white-bg.png" width="200"/>
 
 [Kentico Xperience](https://www.kentico.com/) is content management, digital marketing, and commerce tools in a single platform for creating engaging digital experiences across channels, on-premises or in the cloud.
 
