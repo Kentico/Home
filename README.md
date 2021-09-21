@@ -16,7 +16,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 * [Guidelines for developing tools around Kontent APIs](https://github.com/Kentico/Home/wiki/Guidelines-for-Kontent-related-tools)
 
 
-### Kentico Xperience
+### Xperience by Kentico
 
 <br/>
 
