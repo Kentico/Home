@@ -6,14 +6,14 @@ Welcome to the world of Kentico open source software. This is the home repositor
 
 ## Our products and related open-source projects
 
-### Kentico Kontent
-![Kentico Kontent logo](/images/kk-logo-hor-color-pos-sz-rgb.png)
+### Kontent by Kentico
+![Kontent by Kentico logo](/images/kk-logo-hor-color-pos-sz-rgb.png)
 
-[Kentico Kontent](https://kontent.ai/) is a cloud-based content management platform built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kentico Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
+[Kontent](https://kontent.ai/) is a cloud-based content management platform built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
-* List of [Kentico Kontent open-source projects](https://github.com/topics/kentico-kontent)
-* [Guidelines for creating the Kentico Kontent Delivery SDK](https://github.com/Kentico/Home/wiki/Guidelines-for-SDK-developers)
-* [Guidelines for developing tools around Kentico Kontent APIs](https://github.com/Kentico/Home/wiki/Guidelines-for-Kontent-related-tools)
+* List of [Kontent open-source projects](https://github.com/topics/kentico-kontent)
+* [Guidelines for creating the Kontent Delivery SDK](https://github.com/Kentico/Home/wiki/Guidelines-for-SDK-developers)
+* [Guidelines for developing tools around Kontent APIs](https://github.com/Kentico/Home/wiki/Guidelines-for-Kontent-related-tools)
 
 
 ### Kentico Xperience
@@ -31,7 +31,7 @@ Welcome to the world of Kentico open source software. This is the home repositor
 ## Resources
 
 ℹ️ Are you feeling lost in the stack of developer resources? 
-[**The non-exhaustive list of developer resources**](/RESOURCES.md) could help you find appropriate places related to Kentico Kontent and Kentico Xperience.
+[**The non-exhaustive list of developer resources**](/RESOURCES.md) could help you find appropriate places related to Kontent and Xperience.
 
 [![Developer Resources](https://img.shields.io/badge/-Developer%20Resources-blue?style=for-the-badge)](https://kentico.github.io/Home/RESOURCES)
 
