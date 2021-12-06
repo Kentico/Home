@@ -9,11 +9,14 @@ Welcome to the world of Kentico open source software. This is the home repositor
 ### Kontent by Kentico
 <img alt="Kontent by Kentico logo" src="/images/kk-logo---by-k---hor-color-pos-sz-rgb-white-bg.png" width="200"/>
 
-[Kontent](https://kontent.ai/) is a cloud-based content management platform built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery - from any platform to any device. Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
+[Kontent](https://kontent.ai/) is a cloud-based content management platform built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery and management - from any platform to any device. Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
+
+Besides the product itself, this GitHub organization carries a set of tools, samples, and SDKs to ease the developers' work with Kontent.
 
 * List of [Kontent open-source projects](https://github.com/topics/kentico-kontent)
-* [Guidelines for creating the Kontent Delivery SDK](https://github.com/Kentico/Home/wiki/Guidelines-for-SDK-developers)
-* [Guidelines for developing tools around Kontent APIs](https://github.com/Kentico/Home/wiki/Guidelines-for-Kontent-related-tools)
+* [Kentico Kontent OS Guidelines](https://github.com/Kentico/Home/wiki#kentico-kontent-guidelines)
+    * [Guidelines for creating the Kontent Delivery SDK](https://github.com/Kentico/Home/wiki/Guidelines-for-SDK-developers)
+    * [Guidelines for developing tools around Kontent APIs](https://github.com/Kentico/Home/wiki/Guidelines-for-Kontent-related-tools)
 
 
 ### Xperience by Kentico
