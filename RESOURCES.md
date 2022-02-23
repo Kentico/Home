@@ -157,6 +157,8 @@ Below are links to various places you can find the Kentico developer community.
 
 - [Sean G. Wright](https://twitter.com/seangwright) - [Blog](https://dev.to/seangwright)
 
+- [Liam Goldfinch](https://twitter.com/LiamGoldfinch) - [Blog](https://www.goldfinch.me/blog/)
+
 ## Blogs
 
 ### Kentico Blogs
@@ -196,8 +198,6 @@ Below are links to various places you can find the Kentico developer community.
 - [Kristian Bortnik](https://www.kenticotricks.com/) (Xperience)
 
 - [Roman Hutnyk](https://bitsorchestra.com/Idea) (Xperience)
-
-- [Liam Goldfinch](https://www.goldfinch.me/blog/) (Xperience)
 
 - [Jen Wolke](https://bluemodus.com/articles/colleague/jen-wolke) (Xperience)
 
