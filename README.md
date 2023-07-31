@@ -15,4 +15,4 @@ Visit our [list of developer resources](./RESOURCES.md) to learn more.
 
 ## Getting support for open-source projects
 
-Visit our [support guidance](./SUPPORT.md) for more information about support for Kentico's productsa and open source projects.
+Visit our [support guidance](./SUPPORT.md) for more information about support for Kentico's products and open source projects.
