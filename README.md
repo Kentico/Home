@@ -1,6 +1,6 @@
 # Kentico
 
-![Kentico logo](https://github.com/Kentico/Home/raw/master/images/kentico_rgb_small_200px.png)
+![Kentico logo](https://github.com/Kentico/Home/raw/main/images/kentico_rgb_small_200px.png)
 
 Welcome to the world of Kentico open source software. This is the home repository where you can get up to speed in minutes.
 Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble.
