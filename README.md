@@ -11,8 +11,8 @@ Before you start using any of our software or contributing, read this guide and 
 
 [Xperience by Kentico](https://www.kentico.com/) is a [hybrid headless Digital Experience Platform](https://www.kentico.com/platforms/xperience-by-kentico) (DXP) for creating engaging digital experiences across channels, self-hosted or hosted in our vendor managed SaaS environment.
 
-Visit our [list of developer resources](https://github.com/Kentico/.github/RESOURCES.md) to learn more.
+Visit our [list of developer resources](https://community.kentico.com/resource-hub) to learn more.
 
 ## Getting support for open-source projects
 
-Visit our [support guidance](https://github.com/Kentico/.github/SUPPORT.md) for more information about support for Kentico's products and open source projects.
+Visit our [support guidance](https://github.com/Kentico/.github/blob/main/SUPPORT.md) for more information about support for Kentico's products and open source projects.
